@@ -1,0 +1,8 @@
+{
+    "name": "clickup-mcp-integration",
+    "version": "1.0.0",
+    "description": "ClickUp MCP Server integration.",
+    "scripts": {
+        "start": "npx -y mcp-remote https://mcp.clickup.com/mcp"
+    }
+}
